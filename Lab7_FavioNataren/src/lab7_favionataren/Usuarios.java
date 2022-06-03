@@ -47,7 +47,7 @@ public class Usuarios {
 
     @Override
     public String toString() {
-        return "Usuarios{" + "usuario=" + usuario + ", contrasena=" + contrasena + ", edad=" + edad + '}';
+        return "Usuarios[" + "usuario=" + usuario + ", contrasena=" + contrasena + ", edad=" + edad + ']';
     }
 
 }

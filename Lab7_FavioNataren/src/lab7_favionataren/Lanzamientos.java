@@ -47,7 +47,7 @@ public class Lanzamientos {
 
     @Override
     public String toString() {
-        return "Lanzamientos{" + "tituloLanzamiento=" + tituloLanzamiento + ", fechaLanzamiento=" + fechaLanzamiento + ", likes=" + likes + '}';
+        return "Lanzamientos[" + "tituloLanzamiento=" + tituloLanzamiento + ", fechaLanzamiento=" + fechaLanzamiento + ", likes=" + likes + ']';
     }
 
 }
